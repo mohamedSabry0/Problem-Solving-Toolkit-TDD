@@ -60,7 +60,7 @@ In this project, a class is implemented in test-driven development where tests a
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/AFakhriddinov/School-library-OOP.git
+git clone https://github.com/mohamedSabry0/Problem-Solving-Toolkit-TDD.git
 ```
 
 ### Prerequisites
@@ -74,9 +74,9 @@ In order to run this project you need:
 
 Clone this repository to your dist folder:
 
-git clone https://github.com/AFakhriddinov/School-library-OOP.git
+git clone https://github.com/mohamedSabry0/Problem-Solving-Toolkit-TDD.git
 
-cd School-library-OOP
+cd Problem-Solving-Toolkit-TDD
 
 ### Install
 
@@ -111,11 +111,7 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add a feature to remove a book from the library.
-- Add a feature to remove a student or teacher from the library.
-- Add a feature to remove a record of who borrowed a given book and when.
-- Add a feature to update a record of who borrowed a given book and when.
-- Add a feature to show classroom of a student or a specilization of a teacher.
+- Add more tests and files
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
