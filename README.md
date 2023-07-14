@@ -141,6 +141,6 @@ Acknowledgements and suggestions for improvement are always welcome
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/AFakhriddinov/School-library-OOP/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/mohamedSabry0/Problem-Solving-Toolkit-TDD/blob/TDD/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
