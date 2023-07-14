@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 School-library-OOP ](#-school-library-oop-)
+- [📖 TDD Project ](#-tdd-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -111,7 +111,8 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add more tests and files
+- Add more use cases to cover more scenarios of problems.
+- Add tests for the new use cases.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

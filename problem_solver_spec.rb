@@ -1,7 +1,13 @@
 require './problem_solver'
 
-RSpec.describe Problem_Solver do
-  subject(:solver) { Problem_Solver.new }
+RSpec.describe ProblemSolver do
+  subject(:solver) { ProblemSolver.new }
+
+  describe '#new' do
+    it 'creates a new ProblemSolver object' do
+      expect(solver).to be_an_instance_of(ProblemSolver)
+    end
+  end
 
   describe '#factorial' do
     it 'returns 1 when the input is 0' do
